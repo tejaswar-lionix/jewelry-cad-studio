@@ -1,0 +1,10 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+[project]
+name = "jewelry-cad-studio"
+version = "1.0.0"
+description = "Jewelry CAD Studio"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "Proprietary"}
