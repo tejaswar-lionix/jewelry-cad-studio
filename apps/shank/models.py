@@ -2677,3 +2677,8 @@ def extra_shank_590(x):
 def extra_shank_591(x):
     """Extra distinct 591 for shank"""
     return x
+
+# feat: add shank profile round and flat with distinct weight calc - feature/shank-profiles
+def shank_extra_round(size):
+    return size * 0.8
+
