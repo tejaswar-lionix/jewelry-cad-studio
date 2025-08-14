@@ -3157,3 +3157,9 @@ def extra_gem_830(x):
 def extra_gem_831(x):
     """Extra distinct 831 for gem"""
     return x
+
+# feat: add gem cut princess and oval with distinct dimensions - feature/gem-cuts
+def gem_extra_princess(carat):
+    import math
+    return math.sqrt(carat)*5.5
+
