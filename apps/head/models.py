@@ -3157,3 +3157,8 @@ def extra_head_830(x):
 def extra_head_831(x):
     """Extra distinct 831 for head"""
     return x
+
+# feat: add head setting prong and bezel with security scoring - feature/head-settings
+def head_extra_prong(prongs):
+    return prongs * 0.8
+
