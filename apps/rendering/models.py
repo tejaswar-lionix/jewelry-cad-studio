@@ -3477,3 +3477,8 @@ def extra_rendering_990(x):
 def extra_rendering_991(x):
     """Extra distinct 991 for rendering"""
     return x
+
+# feat: add rendering PBR HDRI preview with distinct material - feature/render-pbr
+def render_extra_pbr(material):
+    return material == 'gold'
+
