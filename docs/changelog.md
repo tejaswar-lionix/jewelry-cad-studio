@@ -6,3 +6,5 @@
 ### feat: add rendering PBR and collab OT presence - 2025-06-25T09:30:00+05:30
 
 ### feat: add versioning visual diff and export STL/DXF - 2025-07-02T11:00:00+05:30
+
+### fix: handle gem carat weight for princess cut - 2025-09-02T10:00:00+05:30
